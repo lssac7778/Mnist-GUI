@@ -7,7 +7,6 @@ Created on Sat Apr 13 21:52:56 2019
 import pygame
 import numpy as np
 from skimage.transform import resize
-import matplotlib.pyplot as plt
 from tensorflow.keras.models import load_model
 
 #%%
